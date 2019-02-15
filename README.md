@@ -1,2 +1,0 @@
-# OswinBlueWebSite
-Created with CodeSandbox
